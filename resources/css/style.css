@@ -1,0 +1,33 @@
+body{
+  font-family: Verdana;
+  text-align: center;
+  background-color: black;
+}
+
+.sectionheader{
+  /*Redline says to set font-weight to normal but the display has it as strong*/
+  /*font-weight: normal;*/
+  font-size: 42px;
+  color: white;
+}
+
+#hook{
+  font-size: 50px;
+}
+
+a{
+  color: aquamarine;
+  text-align: center;
+  font-size: 16px;}
+
+.purpose{
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+
+footer{
+  text-align: right;
+  color: gray;
+  font-size: 20px;
+}
